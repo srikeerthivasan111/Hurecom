@@ -1,0 +1,2 @@
+# Hurecom
+Hurecom text scripts
